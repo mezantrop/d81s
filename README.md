@@ -4,7 +4,7 @@ Although the project is a bit outdated already, it requires to be rewritten to e
 as well as fresh technologies, it still has some gems and interesting methods to have as reference
 when writing code to enquire storage devices.
 
-! [d81s](d81s_screenshot.png?raw=true D81S report)
+![d81s](d81s_screenshot.png?raw=true D81S report)
 
 D81S – simple SAN visualisation tool. It is developed to build a full map of a Fibre Channel Storage Area Network by tracing all paths from HBAs to storage logical devices. D81S scans SAN switches and storage systems to create a database of all volumes which are accessible by hosts and the same LUNs provided by storage systems.
 
