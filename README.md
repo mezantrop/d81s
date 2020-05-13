@@ -11,16 +11,15 @@ D81S – simple SAN visualisation tool. It is developed to build a full map of a
 Running in the virtual machine on my laptop it took ~15 minutes to process ~5000 of SAN ports and ~200 storage systems.
 
 D81S supports:
+* Brocade SAN via SSH
+* Hitachi High-end and Midrange storage systems via Hitachi Command Suite (Device manager)
+* HP Hi-end storage arrays via Command View AE.
+* HP 3PAR 7400 storages via SSH
+* HP EVA arrays via HP Command view EVA
+* IBM TS3500 tape libraries via HTTP
 
-Brocade SAN via SSH
-Hitachi High-end and Midrange storage systems via Hitachi Command Suite (Device manager)
-HP Hi-end storage arrays via Command View AE.
-HP 3PAR 7400 storages via SSH
-HP EVA arrays via HP Command view EVA
-IBM TS3500 tape libraries via HTTP
 D81S requires to run:
-
-Linux server
-Python 3 with several addition modules
-Mysql database
-D81S is a work in progress, so it doesn’t have GUI for now, but I am planning to create WEBUI for it.
+* Linux server
+* Python 3 with several addition modules
+* Mysql database
+* D81S is a work in progress, so it doesn’t have GUI for now, but I am planning to create WEBUI for it.
