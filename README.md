@@ -1,5 +1,7 @@
 # Deck 8 One Step
 
+<a href="https://www.buymeacoffee.com/mezantrop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 Although the project is a bit outdated already, it requires to be rewritten to enhance the code and support new equipment
 as well as fresh technologies, it still has some gems and interesting methods to have as reference
 when writing code to enquire storage devices.
